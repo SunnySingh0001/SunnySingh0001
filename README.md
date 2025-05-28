@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @SunnySingh0001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Sunny Singh (@SumySingh0001) 
 
-<!---
-SunnySingh0001/SunnySingh0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I'm passionate about:
+Java Spring React Microservices DSA
+
+🌱 Currently upskilling in:
+DevOps Kubernetes
+DSA Algorithms (in Java)
+
+👯 Looking to collaborate on: Innovative Java/React projects with microservices architecture
+
+📫 Reach me at: pariharsunnysingh23@gmail.com 🔗
+
+
