@@ -14,7 +14,7 @@
 
 ---
 
-## 🔥 Top Projects (Highlighted Work)
+## 🔥 Top Projects
 
 ### 🏆 Inventory Management System
 
@@ -31,6 +31,7 @@
 * 👥 Features: Task assignment, project tracking, team collaboration
 * 🔐 JWT-based authentication & authorization
 * 📊 Scalable REST APIs
+* 🐳 containerization
 
 ---
 
@@ -40,6 +41,7 @@
 * ⚙️ Inter-service communication (REST APIs)
 * 📊 Smart fitness recommendation engine
 * 🚀 Built for scalability & flexibility
+* 🐳 containerization
 
 ---
 
@@ -48,6 +50,7 @@
 * 💰 Billing & transaction management
 * 📦 Inventory + Sales integration
 * 📊 Backend ready for analytics & reporting
+* 🐳 containerization
 
 ---
 
